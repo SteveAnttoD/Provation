@@ -1,6 +1,6 @@
-a = 15
-b = 20
-sum = a + b
-d=a+b
-print(d)
-print(sum)
+a=int(input("Enter a number:")
+if a%2==0:
+      print("Even")
+else:
+      print("Odd")
+      
